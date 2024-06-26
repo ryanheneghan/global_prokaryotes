@@ -1,8 +1,9 @@
 **Scripts to generate statistical models and figures for "The global distribution and climate resilience of marine heterotrophic prokaryotes".**
 
-*The words "bacteria" and "prokaryote" (and abbreviations of these words) are used interchangeably throughout these scripts and data files.*
+*Note: the data folder only contains source data required to generate figures and statistical models. This data, alongside a ~500MB netcdf of prokaryote abundance, cell carbon and total biomass (as well as environmental variables from World Ocean Atlas 2018 and satellite used as inputs into prokaryote statistical models) is available from the Zenodo repository linked to this paper ().*
 
-*Note that data folder only contains source data required to generate figures and statistical models. All data from this study, including a ~500MB netcdf of prokaryote abundance, cell carbon and total biomass (alongside environmental variables from World Ocean Atlas 2018 and satellite used as inputs into prokaryote statistical models) is available from the Zenodo repository linked to this paper ().*
+*Also, the words "bacteria" and "prokaryote" (and abbreviations of these words) are used interchangeably throughout these scripts and data files.*
+
 
 **/data summary:**\
 raw_observations/prokaryote_abundance.csv : all observations of prokaryotic abundance used in study, with environmental variables appended (as described in Methods of paper)\
