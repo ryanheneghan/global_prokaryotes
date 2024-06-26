@@ -14,7 +14,7 @@ raw_observations/prokaryote_sgr.csv : all observations of prokaryotic specific-g
 bacteria_epipelagic.csv : mean (across top 200m) temperature, nitrate, aou, prokaryotic biomass, cell carbon, respiration and abundance\
 bacteria_mesopelagic.csv : mean (across 200-1000m depth) temperature, nitrate, aou, prokaryotic biomass, cell carbon and abundance\
 bacteria_bathypelagic.csv : mean (across >1000m depth) temperature, nitrate, aou, prokaryotic biomass, cell carbon and abundance\
-bathy_data.csv : mean bathymetry of 1 degree global ocean grid cells\
+bathy_data.csv : mean bathymetry of 1 degree global ocean grid cells (from GEBCO)\
 epipelagic_all_heterotroph_biomass.csv : total epipelagic microzoo, macrozoo, mesozoo, rhizaria, fish and prokaryote biomass by grid cell, and fraction of total heterotroph biomass that prokaryotes. \
 malaspina_locations.csv : lat-lon locations of malaspina circumnavigation sample locations\
 node_purity.csv : output of random forest model for prokaryotic abundance\
